@@ -17,4 +17,4 @@ Le schéma électronique est en cours de réalisation, il sera ajouté quand il 
 
 Si vous avez des améliorations à proposer, n'hésitez pas à faire une pull request / ouvrir une issue. 
 
-Si un jour j'ai le courage je ferai un systeme bien plus optimisé pour le support des batteries en guise de poids.
+Si un jour j'ai le courage je ferai un système bien plus optimisé pour le support des batteries en guise de poids.
