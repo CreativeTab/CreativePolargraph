@@ -1,7 +1,7 @@
 # CreativePolargraph
 Files for the CreativePolargraph
 
-This repository contains the 3D files needed to build the CreativePolargraph. 
+This repository contains the 3D files needed to build the CreativePolargraph. 3D files are available in .f3d and .step formats.
 
 The electronic schematic is in progress, and will be added when it is finished.
 
@@ -11,7 +11,7 @@ If one day I have the courage I'll make a much more optimised system for support
 
 ---------------------------
 
-Ce repository contient les fichiers 3D nécessaires à la fabrication du CreativePolargraph. 
+Ce repository contient les fichiers 3D nécessaires à la fabrication du CreativePolargraph. Les fichiers 3D sont disponibles dans les formats .f3d et .step.
 
 Le schéma électronique est en cours de réalisation, il sera ajouté quand il sera fini.
 
