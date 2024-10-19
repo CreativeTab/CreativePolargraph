@@ -1,5 +1,5 @@
 # CreativePolargraph
-Files for the CreativePolargraph
+3D Files for the CreativePolargraph
 
 This repository contains the 3D files needed to build the CreativePolargraph. 3D files are available in .f3d and .step formats.
 
